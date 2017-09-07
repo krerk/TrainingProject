@@ -5,6 +5,7 @@ class Hello {
         this.Krerk();
 		this.Natthawat();
 		this.Piyapat();
+	this.Sutthidet();
     }
     
     private void Krerk() {
@@ -21,7 +22,9 @@ class Hello {
 		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
 		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
 	}
-	
+	private void Sutthidet() {
+		System.out.println("Trainee - Sutthidet Sarue  SE");
+	}
 
     public static void main(String [] argv) {
         new Hello();
