@@ -26,6 +26,8 @@ class Hello {
     
 		this.Juthamas();
 
+		this.Varinthorns();
+
 
 
 
