@@ -61,6 +61,7 @@ class Hello {
 
 		this.Mild();
         		this.BEST();
+	    this.Sutthidet():
 
     }
 
@@ -180,8 +181,10 @@ class Hello {
         System.out.println("Trainee - Pilai");
     }
 
-	
-	
+	private void Sutthidet() {
+        System.out.println("Trainee - Sutthidet Sarue Se");
+     
+    }
 	
 	
 	
