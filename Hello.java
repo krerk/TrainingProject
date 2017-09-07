@@ -2,8 +2,13 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
-		this.Buncha();
+
+
         this.Krerk();
+		this.nawarinImarom();
+
+		this.Buncha();
+
 		this.pattanan();
 				this.pattanan();
 
@@ -135,6 +140,8 @@ class Hello {
 	 private void Pilai() {
         System.out.println("Trainee - Pilai");
         System.out.println("Trainee - Pilai");
+<<<<<<< HEAD
+=======
     }
 
 	
@@ -283,4 +290,11 @@ class Hello {
         System.out.println("Trainer - Buncha Poomarin");
         System.out.println("Trainee - Buncha Poomarin --- ");
     }
+	
+	
+	
+	private void nawarinImarom(){
+		System.out.println("==== Nawarin Imarom ====");
+	}
+	
 }
