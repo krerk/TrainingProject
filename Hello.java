@@ -65,8 +65,11 @@ class Hello {
 		this.Mild();
         		this.BEST();
 
-    }
 
+        this.Krerk();
+		this.korakot();
+    }
+    
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
@@ -82,6 +85,10 @@ class Hello {
 		 System.out.println("Piyapat Plydaung");
         
 	}
+	 private void korakot() {
+        System.out.println("Trainer - korakot phokhaw, Ph.D.");
+        System.out.println("Trainee - korakot phokhaw, Ph.D. --- ");
+    }
 
     
 
