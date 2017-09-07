@@ -4,16 +4,13 @@ class Hello {
         System.out.println("Hello! We are:");
 
         this.Krerk();
-        this.Chanachai();
-		this.Natthawat();
+<<<<<<< HEAD
 
 		this.nawarinImarom();
-
 		this.Piyapat();
 
 
 		this.torgan();
-		this.Natthawat();
 
     
 		this.pattanan();
@@ -22,6 +19,10 @@ class Hello {
         this.Tanachai();
 
 
+=======
+		this.korakot();
+    }
+>>>>>>> master
     
 		this.Juthamas();
 
@@ -55,14 +56,12 @@ class Hello {
 		this.Mild();
         		this.BEST();
 
-
-        this.Krerk();
-		this.korakot();
     }
-    
+
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
+<<<<<<< HEAD
 
 
     private void pattanan() {
@@ -75,23 +74,15 @@ class Hello {
 		 System.out.println("Piyapat Plydaung");
         
 	}
+
+=======
+	
 	 private void korakot() {
         System.out.println("Trainer - korakot phokhaw, Ph.D.");
         System.out.println("Trainee - korakot phokhaw, Ph.D. --- ");
     }
-
+>>>>>>> master
     
-
-    private void Chanachai() {
-        System.out.println("Trainee - Chanachai");
-    }
-    
-
-	private void Natthawat() {
-		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
-	}
-	
     private void Tanachai() {
       System.out.println("Tanachai Rugvong");
       System.out.println("Tanachai Rugvong");
@@ -188,9 +179,6 @@ class Hello {
         System.out.println("----------------The End----------------");
     }
 	
-	private void Natthawat() {
-        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("Trainee - Natthawat Sudsang");
-    }
+	
 
 }
