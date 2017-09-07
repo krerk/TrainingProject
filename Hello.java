@@ -62,6 +62,8 @@ class Hello {
 		this.Mild();
         		this.BEST();
 	    this.Sutthidet():
+		
+		this.Kanchana();
 
     }
 
@@ -186,7 +188,9 @@ class Hello {
      
     }
 	
-	
+	private void Kanchana (){
+		System.out.println("Trainee - Kanchana");
+	}
 	
 	
 	
