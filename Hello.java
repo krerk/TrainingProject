@@ -4,9 +4,14 @@ class Hello {
         System.out.println("Hello! We are:");
 
         this.Krerk();
+<<<<<<< HEAD
 
 		this.Natthawat();
 
+=======
+        this.Chanachai();
+		this.Natthawat();
+>>>>>>> d0a75163ec8b68b779480bb595628880e5da23a9
 
 		this.nawarinImarom();
 
@@ -14,9 +19,13 @@ class Hello {
 
 
 		this.torgan();
+<<<<<<< HEAD
 		this.Sutthidet();
+=======
+		this.Natthawat();
+>>>>>>> d0a75163ec8b68b779480bb595628880e5da23a9
 
-    }
+    
 		this.pattanan();
 				this.pattanan();
 
@@ -76,6 +85,14 @@ class Hello {
 
     
 
+<<<<<<< HEAD
+=======
+    private void Chanachai() {
+        System.out.println("Trainee - Chanachai");
+    }
+    
+
+>>>>>>> d0a75163ec8b68b779480bb595628880e5da23a9
 	private void Natthawat() {
 		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
 		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
@@ -127,7 +144,10 @@ class Hello {
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d0a75163ec8b68b779480bb595628880e5da23a9
     public static void main(String [] argv) {
         new Hello();
 		
@@ -180,6 +200,9 @@ class Hello {
         System.out.println("----------------The End----------------");
     }
 	
-	
+	private void Natthawat() {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("Trainee - Natthawat Sudsang");
+    }
 
 }
