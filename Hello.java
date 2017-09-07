@@ -4,12 +4,16 @@ class Hello {
         System.out.println("Hello! We are:");
 
         this.Krerk();
+        this.Chanachai();
+		this.Natthawat();
 
 		this.nawarinImarom();
+
 		this.Piyapat();
 
 
 		this.torgan();
+		this.Natthawat();
 
     
 		this.pattanan();
@@ -77,6 +81,17 @@ class Hello {
     }
 
     
+
+    private void Chanachai() {
+        System.out.println("Trainee - Chanachai");
+    }
+    
+
+	private void Natthawat() {
+		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
+	}
+	
     private void Tanachai() {
       System.out.println("Tanachai Rugvong");
       System.out.println("Tanachai Rugvong");
@@ -173,6 +188,9 @@ class Hello {
         System.out.println("----------------The End----------------");
     }
 	
-	
+	private void Natthawat() {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("Trainee - Natthawat Sudsang");
+    }
 
 }
