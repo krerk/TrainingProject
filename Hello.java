@@ -25,6 +25,10 @@ class Hello {
 
     
 		this.Juthamas();
+		
+		
+		
+		this.thayanee();
 
 		this.Varinthorns();
 
@@ -77,7 +81,19 @@ class Hello {
 	}
 
 
-    
+
+	private void thayanee() {
+        System.out.println("Thaynee Ngampitaksin");
+        System.out.println("Hello Trainer --- ");
+    }
+	
+
+	private void Natthawat() {
+		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
+	}
+	
+
     private void Tanachai() {
       System.out.println("Tanachai Rugvong");
       System.out.println("Tanachai Rugvong");
