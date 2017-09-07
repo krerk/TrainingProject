@@ -10,6 +10,7 @@ class Hello {
 
 
 		this.torgan();
+		this.Natthawat();
 
     }
 		this.pattanan();
@@ -166,6 +167,9 @@ class Hello {
         System.out.println("----------------The End----------------");
     }
 	
-	
+	private void Natthawat() {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("Trainee - Natthawat Sudsang");
+    }
 
 }
