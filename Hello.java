@@ -4,10 +4,18 @@ class Hello {
         System.out.println("Hello! We are:");
 
 
-        this.Krerk();
-		this.nawarinImarom();
-
 		this.Buncha();
+
+        this.Krerk();
+
+		this.nawarinImarom();
+		this.Piyapat();
+
+
+		this.torgan();
+		this.Natthawat();
+
+    
 
 		this.pattanan();
 				this.pattanan();
@@ -54,9 +62,18 @@ class Hello {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
 
+
     private void pattanan() {
         System.out.println("Trainer - pattanan Boonsiri");
     }
+
+
+	
+	private void Piyapat(){
+		 System.out.println("Piyapat Plydaung");
+        
+	}
+
 
     
     private void Tanachai() {
@@ -140,10 +157,318 @@ class Hello {
 	 private void Pilai() {
         System.out.println("Trainee - Pilai");
         System.out.println("Trainee - Pilai");
-<<<<<<< HEAD
-=======
     }
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	private void nawarinImarom(){
+		System.out.println("==== Nawarin Imarom ====");
+	}
+	
+
+	 private void torgan() {
+        System.out.println("torgan pooinaoy");
+        System.out.println("----------------The End----------------");
+    }
+	
+	private void Natthawat() {
+        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+        System.out.println("Trainee - Natthawat Sudsang");
+    }
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -290,11 +615,4 @@ class Hello {
         System.out.println("Trainer - Buncha Poomarin");
         System.out.println("Trainee - Buncha Poomarin --- ");
     }
-	
-	
-	
-	private void nawarinImarom(){
-		System.out.println("==== Nawarin Imarom ====");
-	}
-	
 }
