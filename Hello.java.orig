@@ -3,34 +3,28 @@ class Hello {
     public Hello() {
         System.out.println("Hello! We are:");
 
-
-		this.Buncha();
-
         this.Krerk();
-        this.Chanachai();
+<<<<<<< HEAD
+
 		this.nawarinImarom();
 		this.Piyapat();
 
 
 		this.torgan();
-		this.Natthawat();
 
     
-
 		this.pattanan();
 				this.pattanan();
 
         this.Tanachai();
 
 
+=======
+		this.korakot();
+    }
+>>>>>>> master
     
 		this.Juthamas();
-		
-		
-		
-		this.thayanee();
-
-		this.Varinthorns();
 
 
 
@@ -61,16 +55,13 @@ class Hello {
 
 		this.Mild();
         		this.BEST();
-	    this.Sutthidet():
 
     }
 
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
-    private void Chanachai() {
-        System.out.println("Trainer - Chanachai");
-    }
+<<<<<<< HEAD
 
 
     private void pattanan() {
@@ -84,20 +75,14 @@ class Hello {
         
 	}
 
-
-
-	private void thayanee() {
-        System.out.println("Thaynee Ngampitaksin");
-        System.out.println("Hello Trainer --- ");
+=======
+	
+	 private void korakot() {
+        System.out.println("Trainer - korakot phokhaw, Ph.D.");
+        System.out.println("Trainee - korakot phokhaw, Ph.D. --- ");
     }
-	
-
-	private void Natthawat() {
-		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
-	}
-	
-
+>>>>>>> master
+    
     private void Tanachai() {
       System.out.println("Tanachai Rugvong");
       System.out.println("Tanachai Rugvong");
@@ -180,154 +165,6 @@ class Hello {
         System.out.println("Trainee - Pilai");
         System.out.println("Trainee - Pilai");
     }
-
-	private void Sutthidet() {
-        System.out.println("Trainee - Sutthidet Sarue Se");
-     
-    }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-
 	
 
 	
@@ -342,301 +179,6 @@ class Hello {
         System.out.println("----------------The End----------------");
     }
 	
-	private void Natthawat() {
-        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("Trainee - Natthawat Sudsang");
-    }
+	
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	private void Buncha() {
-        System.out.println("Trainer - Buncha Poomarin");
-        System.out.println("Trainee - Buncha Poomarin --- ");
-    }
 }
