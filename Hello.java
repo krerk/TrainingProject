@@ -93,6 +93,13 @@ class Hello {
         System.out.println("Hello Trainer --- ");
     }
     
+<<<<<<< HEAD
+	private void thayanee() {
+        System.out.println("Thaynee Ngampitaksin");
+        System.out.println("0940594974");
+    }
+	
+=======
 	private void Natthawat() {
 		System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
 		System.out.println("Trainee - Natthawat Sudsang, SSA ---");
@@ -143,6 +150,7 @@ class Hello {
     }
 
 
+>>>>>>> 5c100739efb87773b4536a00e3dec9fb2494bdb7
     public static void main(String [] argv) {
         new Hello();
 		
