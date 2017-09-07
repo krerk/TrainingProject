@@ -30,6 +30,8 @@ class Hello {
 		
 		this.thayanee();
 
+		this.Varinthorns();
+
 
 
 
