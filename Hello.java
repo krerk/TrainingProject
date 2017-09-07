@@ -12,7 +12,7 @@ class Hello {
 		this.torgan();
 		this.Natthawat();
 
-    }
+    
 		this.pattanan();
 				this.pattanan();
 
