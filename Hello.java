@@ -7,7 +7,7 @@ class Hello {
 		this.Buncha();
 
         this.Krerk();
-
+        this.Chanachai();
 		this.nawarinImarom();
 		this.Piyapat();
 
@@ -66,6 +66,9 @@ class Hello {
 
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
+    }
+    private void Chanachai() {
+        System.out.println("Trainer - Chanachai");
     }
 
 
